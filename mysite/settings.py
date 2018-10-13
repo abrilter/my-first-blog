@@ -25,7 +25,7 @@ SECRET_KEY = '!pb9@!d)53-z+a6df2@4y6-7yt)%+otou2#964u7w5!(!4bx4w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'abrilter.pythonanywhere.com']
 
 
 # Application definition
